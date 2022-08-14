@@ -32,19 +32,19 @@ console.log("..................")
 // calling the array;
 var questions = [{
   question:"1.when did india play first test match?\na.1932\nb.1942\nc.1955\nd.1931\n Enter ans>:",
-  answer:"1932"
+  answer:"a"
 },{
   question:"2.which year did india won cricket world cup\na.1954\nb.1982\nc.1983\nd.1962\n Enter ans>",
-  answer:"1983"
+  answer:"c"
   },{
   question:"3.who is the top wicket taker in the 2011 world cup?\na.ishanth sharma\nb.ravindra jadeja\nc.jasprith boomrah\nd.jaheer khan\n Enter ans>:"  ,
-  answer:"jaheer khan"
+  answer:"d"
   },{
   question:"4.who is the top run scorer in the 2019 cricket world cup?\na.rohit sharma\nb.virat kohli\nc.sachin tendulkar\nd.yuvraj singh\n Enter ans>:",
-  answer:"rohit sharma"  
+  answer:"a"  
   },{
   question:"5.who was awarded man of the tournament in icc world cup?\na.dhoni\nb.virat kohli\nc.sachin\nd.ravindra jadeja\n Enter ans>:",
-  answer:"sachin"
+  answer:"c"
   }]
 
   
